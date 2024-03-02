@@ -1,2 +1,9 @@
 # RSVP-Case-Study
-The repository contains information about the dataset and case study I performed on RSVP Movie Studio historical data 
+I Conducted a comprehensive case study on the dataset provided of RSVP movie studio to identify factors for creation of global superhit movie.
+
+# 5 Major Factors
+- Top Genre.
+- Top Production House.
+- Top Director.
+- Top Actor
+- Top Actress.
